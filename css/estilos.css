@@ -30,6 +30,10 @@ header .logo p {
     color: #ffffff;
 }
 
+.c1, .c2, .c3{
+    width: 120px;
+}
+
 header .menu .c1{background:#e23d3d;}
 header .menu .c2{background: #850000;}
 header .menu .c3{background: #550000;}
